@@ -1,0 +1,54 @@
+[
+  {
+    "file": "1.jpg",
+    "hash": "e606435547f4275d763f678f67004706602435041ffc77f6438043b87bf0fb0f"
+  },
+  {
+    "file": "2.jpg",
+    "hash": "fe03fc1f7e870003700038e43ff23ff833b837393d803bf033f83b3320ba19f8"
+  },
+  {
+    "file": "image.jpg",
+    "hash": "ffa0fffc380c3800bf01bc39bf01b425be08bff01f801fc81f80ffec20003ffc"
+  },
+  {
+    "file": "image.png",
+    "hash": "fffc0fff001f00010066007f3c7e0ffe07fe707e007e00fe06fe70fe00fe007e"
+  },
+  {
+    "file": "image1.jpg",
+    "hash": "0000ffc0fffc97e08000b8009efdbfff99fc989e9e1e9e0099c09cee808e9cfe"
+  },
+  {
+    "file": "image1.png",
+    "hash": "ffffffff00000000b000b980b09fbdff00ff00ff00ff00ffffffbff898008000"
+  },
+  {
+    "file": "image2.jpg",
+    "hash": "ff87fffff0000000b000b980b19dbdff00ff00ff00ff00ffffffbff88c008000"
+  },
+  {
+    "file": "image2.png",
+    "hash": "001fffffffe000008000b8009efdbfff99fc989e9e1e9e0099c09cee808e9cfe"
+  },
+  {
+    "file": "image3.jpg",
+    "hash": "fffc0fff001f00010066007f2c7f0ffe077e60fe00fe00fe06fe70fe00fe007e"
+  },
+  {
+    "file": "image3.png",
+    "hash": "ffffffff00000000f801ffe1fc01b4497ff99e011f001fc10000fffc1ff80f78"
+  },
+  {
+    "file": "image4.png",
+    "hash": "80002000ffff6fff2fff0e0fea0fe0000fe00fe08fff0f04efffc007c000dfe0"
+  },
+  {
+    "file": "image5.png",
+    "hash": "fe00fe00ff80ff80fe00fe00f0007ffe032007fc07fc1ffc3ffc3ffef800c000"
+  },
+  {
+    "file": "image6.png",
+    "hash": "ffff0fff00380008009ffc00ffc0ffc0ff80ff80ff803e00ffc4ff84ff0c0080"
+  }
+]

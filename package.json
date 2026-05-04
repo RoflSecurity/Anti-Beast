@@ -1,0 +1,21 @@
+{
+  "name": "antibeast",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "imghash": "^1.1.2",
+    "tesseract.js": "^7.0.0"
+  },
+  "overrides": {
+    "undici": "^7.24.3"
+  }
+}
